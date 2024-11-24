@@ -12,12 +12,21 @@ for client
 format:
 
 /active
+
 /send id message
+
 /logout
+
 /chatbot login
+
 /chatbot logout
+
 /history id
+
 /history_delete id
+
 /delete_all
+
 /chatbot_v2 login
+
 /chatbot_v2 logout
